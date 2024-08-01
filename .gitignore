@@ -1,0 +1,16 @@
+# dir
+__pycache__/
+
+# file
+*.npz
+*.npy
+*.csv
+*.pkl
+*.h5
+*.pt
+core*
+*.p
+*.pickle
+*.pyc
+*.txt
+
