@@ -1,4 +1,4 @@
-# Scalable Prediction of Heterogeneous Traffic Flow Using Vision Based Micro-Quantification
+# Scalable prediction of heterogeneous traffic flow with enhanced non-periodic feature modeling
 
 ## 1. Environment
 Our experiments are conducted based on Python 3.8 and Pytorch 1.12.1.
